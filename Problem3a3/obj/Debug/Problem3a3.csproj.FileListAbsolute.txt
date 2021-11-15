@@ -1,0 +1,6 @@
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\CalculatorSample\Problem3a3\bin\Debug\Problem3a3.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\CalculatorSample\Problem3a3\bin\Debug\Problem3a3.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\CalculatorSample\Problem3a3\bin\Debug\Problem3a3.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\CalculatorSample\Problem3a3\obj\Debug\Problem3a3.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\CalculatorSample\Problem3a3\obj\Debug\Problem3a3.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\CalculatorSample\Problem3a3\obj\Debug\Problem3a3.csprojAssemblyReference.cache
